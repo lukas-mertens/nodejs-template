@@ -47,6 +47,7 @@
     "rimraf": "^5.0.1"
   },
   "generator": {
+    "apiVersion": "v3",
     "supportedProtocols": [
       "amqp",
       "mqtt",
